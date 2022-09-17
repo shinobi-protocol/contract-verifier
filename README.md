@@ -20,7 +20,8 @@ docker run -it contract-verifier:1
 git clone https://github.com/shinobi-protocol/secret-btc.git
 ```
 
-for source code of PublicBeta2 checkout to the commit ``
+for source code of PublicBeta2 checkout to the commit `4a4083e
+`
 
 ### compile source code and hash the wasm binary (eg. gateway)
 ```
