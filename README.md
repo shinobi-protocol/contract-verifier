@@ -9,11 +9,13 @@ docker build . -t contract-verifier:1
 ```
 
 
-## Run Docker
+## Run docker container
 
 ```
 docker run -it contract-verifier:1
 ```
+
+## In docker container
 
 ### clone source code
 ```
