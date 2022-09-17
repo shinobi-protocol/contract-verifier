@@ -38,7 +38,7 @@ sha256sum contract.wasm | head -c 64
 sh ./fetch_codehash.sh {contract address}
 ```
 
-for PublicBeta2, address of deployed contract is as follows 
+for PublicBeta2, addresses and code hashes of deployed contracts are as follows 
 
 ```
 {
